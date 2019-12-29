@@ -1,0 +1,201 @@
+
+@media only screen and (orientation: portrait) {
+    body {
+        background: url('/assets/background.png'); 
+        background-repeat: no-repeat;background-size: cover;
+        z-index: -1;
+           }
+           ion-grid{
+    
+            margin-left: auto;
+        margin-bottom: auto;
+        margin-top: 50%;
+        margin-right: 47%;
+        }
+  }
+  @media only screen and (orientation: landscape) {
+    body {
+      
+  
+    }
+    ion-grid{
+    
+        margin-left: auto;
+    margin-bottom: auto;
+    margin-top: 17%;
+    margin-right: 20%;
+    }
+  }
+#Group_1 {
+   
+     z-index: 2;
+    margin-top: 90px;
+    opacity: 1;
+    position: absolute;
+    transform: matrix(1,0,0,1,0,0); 
+    width: 174px;
+    height: 163px;
+    left: 93.059px;
+    top: 104px;
+    overflow: visible;
+  
+}  
+.Subtraction_1 {
+        z-index: 1;
+       margin-top: 90px;
+       transform: matrix(1,0,0,1,0,0); 
+       overflow: visible;
+       position: absolute;
+       top: 127px;
+       left: 120.7px;
+       width: 119.3px;
+       height: 118px;
+   }
+#Polygon_1 {
+    opacity: 1;
+    fill: rgba(0,255,93,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_1 {
+    transform: matrix(1,0,0,1,0,0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 65.941px;
+    width: 42px;
+    height: 59px;
+}
+#Polygon_2 {
+    opacity: 1;
+    fill: rgba(0,255,93,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_2 {
+    transform: rotate(270deg);
+    overflow: visible;
+    position: absolute;
+    top: 59.376px;
+    left: 0px;
+    width: 59px;
+    height: 45px;
+}
+#Polygon_3 {
+    opacity: 1;
+    fill: rgba(0,255,93,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_3 {
+    transform: rotate(90deg);
+    overflow: visible;
+    position: absolute;
+    top: 59.376px;
+    left: 115px;
+    width: 59px;
+    height: 45px;
+}
+#Polygon_4 {
+    opacity: 1;
+    fill: rgba(0,255,93,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Polygon_4 {
+    transform: rotate(180deg);
+    overflow: visible;
+    position: absolute;
+    top: 104px;
+    left: 65.941px;
+    width: 42px;
+    height: 59px;
+}
+
+#Subtraction_1 {
+ 
+    opacity: 1;
+    fill: rgba(238,255,0,1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+              
+
+.button1{
+    background-image: url('/assets/Untitled_A0_Rectangle_9_pattern.png');
+background-repeat: no-repeat;background-size: cover;
+
+transform: rotate(0deg);
+margin-left: 40%;
+margin-bottom: auto;
+margin-top: auto;
+margin-right: auto;
+}
+
+.button2{
+background-image: url('/assets/Untitled_A0_Rectangle_9_pattern.png');
+background-repeat: no-repeat;background-size: cover;
+transform: rotate(0deg);
+margin-left:-60%;
+margin-bottom: auto;
+margin-top: auto;
+margin-right: auto;
+}
+
+.button3{
+    background-image: url('/assets/Untitled_A0_Rectangle_9_pattern.png');
+background-repeat: no-repeat;background-size: cover;
+transform: rotate(0deg);
+margin-left: 120%;
+margin-top: -90%;
+margin-bottom: auto;
+margin-right: auto;
+
+}
+
+.button4{
+    background-image: url('/assets/Untitled_A0_Rectangle_9_pattern.png');
+background-repeat: no-repeat;background-size: cover;
+transform: rotate(0deg);
+margin-left: 30%;
+margin-bottom: auto;
+margin-top: auto;
+margin-right: auto;
+
+}
+.button5{
+background-image: url('/assets/Untitled_A0_Rectangle_9_pattern.png');
+background-repeat: no-repeat;background-size: cover;
+transform: rotate(0deg);
+margin-left: 30%;
+margin-bottom: auto;
+margin-top: 500%;
+margin-right: auto;
+
+}
+.fab{
+
+transform: rotate(0deg);
+
+
+}
